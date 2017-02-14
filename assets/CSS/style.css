@@ -4,6 +4,9 @@
 header {
     background-color: #00b6a8;
 }
+.navar-primary {
+    background-color: #00b6a8;
+}
 header h1 {
     font-weight: 700;  font-family: 'Righteous', cursive;  margin-bottom: 0;
 }
