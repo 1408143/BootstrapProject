@@ -1,8 +1,8 @@
-main article img{
-    width:100%;
-}
+@import "fonts.css";
 
-#experimentImage {
+/*Home Page Experiment Styles*/
+.experimentImage {
     margin: 6px 0 3px 0;
     width: 100%;
 }
+/*End of Home Page Experiment Styles*/
