@@ -1,5 +1,18 @@
 @import "fonts.css";
 
+/*Header Information */
+header {
+    background-color: #00b6a8;
+}
+header h1 {
+    font-weight: 700;  font-family: 'Righteous', cursive;  margin-bottom: 0;
+}
+
+header h2 {
+    margin-top: 0;
+}
+/*End of Header*/
+
 /*Home Page Experiment Styles*/
 .experimentImage {
     margin: 6px 0 3px 0;
